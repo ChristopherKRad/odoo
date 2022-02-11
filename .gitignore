@@ -1,6 +1,9 @@
 # sphinx build directories
 _build/
 
+# command to run odoo locally
+# python odoo-bin -d odoo15 -r odoo -w Cicada_3301
+
 # dotfiles
 .*
 !.gitignore
